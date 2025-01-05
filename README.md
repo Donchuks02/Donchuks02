@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chukwudi David Okoro !
 
-🚀 **A Python Backend Developer** | 🛠 **Building robust APIs & applications** | 🌍 **Open Source Enthusiast**
+🚀 **A Python Backend Developer** | 🛠 **Building robust APIs & applications** | 🌍 **Open Source Contributor**
 
 ---
 
