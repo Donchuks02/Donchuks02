@@ -44,6 +44,6 @@ I'm a passionate backend developer with a strong focus on Python and Django. I e
 ### 📌 Let's Connect
 - **GitHub**: [github.com/Donchuks02](https://github.com/Donchuks02)
 - **Gmail**: [chukwudidavid02@gmail.com]
-- **Twitter**: [https://x.com/PyDev_Chuks]
+- **Twitter**: [ https://x.com/Chuks_D_O?t=ae9YUHznJTRgg0kbbhfJmg&s=09 ]
 
 ---
